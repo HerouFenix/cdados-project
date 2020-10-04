@@ -4,7 +4,7 @@
 
 -   **Diogo Silva** - [HerouFenix](https://github.com/HerouFenix)
 -   **Tiago Melo** - [tiagoleonmelo](https://github.com/tiagoleonmelo)
--   **Pedro Pires** - [???](https://github.com/)
+-   **Pedro Pires** - [PePirex](https://github.com/PePirex)
 
 ## License
 
